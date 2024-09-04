@@ -1,0 +1,2 @@
+default research size: (edit ONLY the line below!)
+64
